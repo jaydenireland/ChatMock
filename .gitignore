@@ -1,24 +1,2 @@
-# Python bytecode
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-.venv/
-venv/
-
-# Env files
-.env*
-!.env.example
-
-# Packaging artifacts
-build/
-dist/
-*.egg-info/
-
-# Tool caches
-.pytest_cache/
-.mypy_cache/
-
-# OS clutter
-.DS_Store
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
